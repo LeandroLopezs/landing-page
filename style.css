@@ -1,0 +1,68 @@
+body {
+    padding: 0;
+    margin: 0;
+    color: white;
+    background-color: black;
+
+}
+
+
+
+header {
+    background-color: #1d33a1;
+    width: 100%;
+}
+
+article {
+
+    display: flex;
+    flex-direction: column;
+    float: left;
+    padding: 100px;
+    width: 30%;
+    margin: 10px;
+    text-align: center;
+
+
+
+}
+
+article p {
+    text-align: justify;
+    font-size: 20px;
+    font-family: "Radio Canada Big", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 50px;
+    font-style: normal;
+
+}
+
+#logo {
+    width: 50px;
+
+    flex-direction: row;
+    margin-left: 10px;
+
+
+}
+
+#poster {
+    display: flex;
+    float: right;
+    width: 50%;
+    margin: 10px;
+    margin-top: 100px;
+
+}
+
+#titulo {
+    font-family: "Radio Canada Big", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 50px;
+    font-style: normal;
+    font-size: 45px;
+    text-align: center;
+
+
+
+}

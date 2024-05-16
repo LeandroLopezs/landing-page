@@ -1,0 +1,26 @@
+@media only screen and (max-width: 1200px) {
+
+    header {
+        width: 100%;
+    }
+
+    article {
+        width: 80%;
+        padding: 10px;
+        padding-left: 60px;
+        margin: auto;
+
+    }
+
+
+
+    #poster {
+        display: inline-block;
+        width: 100%;
+        margin: auto;
+    }
+
+    header img {
+        width: 300px;
+    }
+}
