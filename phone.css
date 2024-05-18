@@ -23,4 +23,11 @@
     header img {
         width: 300px;
     }
+
+    #steam {
+        background-image: url(imagens/Steam-Logo-500x281.png);
+        background-size: 100%;
+
+
+    }
 }

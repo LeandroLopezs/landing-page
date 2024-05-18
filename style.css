@@ -52,6 +52,7 @@ article p {
     width: 50%;
     margin: 10px;
     margin-top: 100px;
+    margin-right: 50px;
 
 }
 
@@ -65,4 +66,86 @@ article p {
 
 
 
+}
+
+.imagemfixa {
+    margin-top: 300px;
+    display: inline-block;
+    background-attachment: fixed;
+    height: 400px;
+    width: 100%;
+
+}
+
+.imagemfixa p {
+    margin-top: 200px;
+    text-align: center;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 45px;
+    margin-right: 20px;
+
+}
+
+#imagemfixa1 {
+    background-image: url('imagens/camaleao.webp');
+    background-position: center;
+    background-size: cover;
+
+}
+
+#imagemfixa2 {
+    background-image: url('imagens/animal-well-eggs.avif');
+    background-position: center;
+    background-size: cover;
+
+}
+
+#imagemfixa3 {
+
+    background-image: url('imagens/screen_ghost.avif');
+    background-position: center;
+    background-size: cover;
+}
+
+#disponivel {
+    margin-top: 200px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.imagemlogo {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+
+
+
+}
+
+#steam {
+    background-image: url(imagens/Steam-Logo-500x281.png);
+    background-size: 100%;
+
+}
+
+#ps5 {
+
+    background-image: url(imagens/navy-playstation-png-logo-5.png);
+    background-size: 100%;
+
+
+}
+
+#switch {
+    background-image: url(imagens/switch.png);
+    background-size: 100%;
+
+}
+
+#logos {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 500px;
 }
